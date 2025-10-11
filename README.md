@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/28Dharshu/28Dharshu/blob/main/banner%20(2).png" alt="Dharshini | AI & Web Developer" width="100%" />
+  <img src="https://github.com/28Dharshu/28Dharshu/blob/main/banner.png" alt="Dharshini | AI & Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dharshini</h1>
