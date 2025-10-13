@@ -1,0 +1,9 @@
+<!-- tools.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" role="img" aria-label="Tools icon">
+  <rect width="24" height="24" rx="6" fill="#0f1724"/>
+  <g transform="translate(3.5,3.5)">
+    <rect x="0.6" y="9.2" width="10.8" height="2.6" rx="0.5" fill="#11121a"/>
+    <path d="M3.1 7.1l2.8-2.8c0.8 0.1 1.6 0.5 2.2 1.1 0.7 0.7 1.1 1.6 1.1 2.6l-2.8 2.8-3.4-3.7z" fill="#7C41FF"/>
+    <circle cx="8.5" cy="6.2" r="0.55" fill="#fff" opacity="0.95"/>
+  </g>
+</svg>
