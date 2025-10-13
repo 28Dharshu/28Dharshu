@@ -1,0 +1,17 @@
+<!-- about.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" role="img" aria-label="About icon">
+  <rect width="24" height="24" rx="6" fill="#0f1724"/>
+  <g transform="translate(3.5,3.5)" fill="none" stroke="none">
+    <!-- hood -->
+    <path d="M9.5 1.2C6.9 1.2 5 3 5 5.6v0.6h9V5.6C14 3 12.1 1.2 9.5 1.2z" fill="#7C41FF"/>
+    <!-- face -->
+    <ellipse cx="9.5" cy="7.2" rx="3.8" ry="3.2" fill="#0f1724"/>
+    <!-- laptop -->
+    <rect x="2.2" y="11.2" width="14.6" height="6" rx="0.9" fill="#11121a"/>
+    <rect x="3.6" y="12.2" width="11.8" height="3.4" rx="0.6" fill="#07101a" />
+    <rect x="4.4" y="13.1" width="9.8" height="1.0" rx="0.4" fill="#7C41FF" opacity="0.95"/>
+    <!-- eyes -->
+    <circle cx="8.4" cy="6.6" r="0.35" fill="#fff" opacity="0.92"/>
+    <circle cx="10.6" cy="6.6" r="0.35" fill="#fff" opacity="0.92"/>
+  </g>
+</svg>
