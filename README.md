@@ -33,9 +33,13 @@
   <strong style="margin-left:8px">About Me</strong>
 </p>
 
-🌟 Passionate learner and developer who loves building **full-stack web apps**, exploring **DSA**, and working with modern tech stacks.  
-💻 Currently focusing on **React**, **Firebase**, and **MongoDB**, while also improving problem-solving skills in **C++**, **Python**, and **Java**.  
-🚀 Driven by curiosity and creativity to build impactful and scalable digital solutions.
+Hello there! I'm Vijay, a Computer Science student specializing in AI & ML with a deep fascination for the entire development lifecycle, from architecting scalable back-end systems to creating intuitive, user-centric front-end experiences.
+
+My journey into technology is fueled by a simple principle: to understand not just how to build something, but why it works the way it does. I thrive on deconstructing complex problems, exploring the underlying mechanics, and then rebuilding them into something more efficient and elegant. This curiosity has led me from mastering f=Full stack development to exploring the frontiers of AI and machine learning.
+
+Feel free to connect with me on any of the platforms below!
+
+
 
 ---
 
