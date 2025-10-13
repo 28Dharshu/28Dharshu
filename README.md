@@ -86,17 +86,14 @@
 
 ### <img src="./assets/tools.svg" width="20" style="vertical-align:middle"/> Featured Projects
 
-<div style="display:flex; flex-direction:column; gap:12px;">
-<div style="background:#e3f2fd; padding:10px; border-radius:12px; box-shadow:0 0 12px #2196f3; animation:pulse 2.5s infinite;">
-🌿 <strong>Plant Disease Detection</strong> — CNN-based model for classifying leaf diseases.
-</div>
-<div style="background:#f1f8e9; padding:10px; border-radius:12px; box-shadow:0 0 12px #8bc34a; animation:pulse 2.5s infinite;">
-♻️ <strong>Smart Waste Sorting Bin</strong> — IoT-powered ESP32-CAM + servo-based sorter.
-</div>
-<div style="background:#fff3e0; padding:10px; border-radius:12px; box-shadow:0 0 12px #ff9800; animation:pulse 2.5s infinite;">
-☁️ <strong>Weather Forecast Web App</strong> — Real-time forecasts with local city news.
-</div>
-</div>
+| Project | Description | Repo |
+|----------|--------------|------|
+| 🌿 *Plant Disease Detection* | CNN-based leaf disease identification using Python & TensorFlow | [View Repo](#) |
+| 🧠 *Student Grade Prediction* | Predicts student performance using ML regression | [View Repo](#) |
+| ♻ *Smart Waste Sorting Bin* | IoT-powered bin with ESP32-CAM & Servo automation | [View Repo](#) |
+| ☁ *Weather Forecast Web App* | Displays live weather data with city-based news integration | [View Repo](#) |
+
+
 
 ---
 
