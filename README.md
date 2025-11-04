@@ -31,7 +31,10 @@
 
 ---
 
-## 💫 About Me  
+<!-- About --> 
+<p align="left"> 
+<img src="./assets/about.svg" alt="about" width="22" style="vertical-align:middle"/> 
+<strong style="margin-left:8px">About Me</strong> </p> 
 
 Hello! I’m **Dharshini**, currently pursuing a **B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning)**.  
 I’m passionate about exploring how AI can be integrated into real-world systems — from intelligent automation to smart web applications.  
@@ -47,7 +50,7 @@ I enjoy solving complex problems, designing user-focused digital experiences, an
 
 ---
 
-## ⚙️ Technical Skills  
+### <img src="./assets/brain.svg" width="20" style="vertical-align:middle"/> Technical Skills  
 
 ### 🖥️ Frontend  
 <p align="left">
@@ -107,12 +110,10 @@ I enjoy solving complex problems, designing user-focused digital experiences, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28Dharshu&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=28Dharshu&theme=tokyonight&v=2" alt="GitHub Streak" height="170"/>
+
 </p>
 
-💡 *My GitHub streaks represent consistent learning and contribution —  
-whether it’s fixing bugs, building AI prototypes, or pushing full-stack web apps.  
-I believe steady progress builds real skill.*
 
 ---
 
