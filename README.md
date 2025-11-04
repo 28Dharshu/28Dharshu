@@ -4,23 +4,20 @@
 </p>
 
 <!-- Intro with typing effect -->
-<h1 align="center">Hi 👋, I'm Dharshini</h1>
+<h1 align="center">Hi, I'm Dharshini</h1>
 <h3 align="center">
-  <img src="./assets/rocket.svg" alt="rocket" width="20" style="vertical-align:middle"/>
-  <span style="color:#8b6af6">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=8b6af6&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;AI+%26+IoT+Innovator;Tech+Enthusiast"/>
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;AI+%26+IoT+Innovator;Tech+Explorer"/>
 </h3>
 
-<!-- Social Links with hover animation -->
+<!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharshini-m9952343262" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://www.linkedin.com/in/dharshini-m9952343262">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kit27.am15@gmail.com" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="mailto:kit27.am15@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/28Dharshu" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://github.com/28Dharshu">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -33,13 +30,12 @@
   <strong style="margin-left:8px">About Me</strong>
 </p>
 
-Hello there! I'm Vijay, a Computer Science student specializing in AI & ML with a deep fascination for the entire development lifecycle, from architecting scalable back-end systems to creating intuitive, user-centric front-end experiences.
+Hello there! I'm **Dharshini**, a Computer Science student specializing in **AI & Web Development**, with a deep fascination for the full development lifecycle — from designing user-friendly interfaces to developing scalable backend systems.
 
-My journey into technology is fueled by a simple principle: to understand not just how to build something, but why it works the way it does. I thrive on deconstructing complex problems, exploring the underlying mechanics, and then rebuilding them into something more efficient and elegant. This curiosity has led me from mastering f=Full stack development to exploring the frontiers of AI and machine learning.
+My journey in technology is driven by curiosity — not just *how* things work, but *why*. I enjoy deconstructing problems, understanding their logic, and transforming them into efficient, elegant solutions.  
+I’m passionate about blending **AI, IoT, and web technologies** to build intelligent, real-world applications.
 
 Feel free to connect with me on any of the platforms below!
-
-
 
 ---
 
@@ -97,8 +93,6 @@ Feel free to connect with me on any of the platforms below!
 | ♻ *Smart Waste Sorting Bin* | IoT-powered bin with ESP32-CAM & Servo automation | [View Repo](#) |
 | ☁ *Weather Forecast Web App* | Displays live weather data with city-based news integration | [View Repo](#) |
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -110,6 +104,8 @@ Feel free to connect with me on any of the platforms below!
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=28Dharshu&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🏆 Achievements
 <p align="center">
@@ -135,4 +131,4 @@ Feel free to connect with me on any of the platforms below!
 
 ---
 
-<p align="center">✨ “Transforming ideas into intelligent solutions with AI & Web technologies.” ✨</p>
+<p align="center">“Transforming ideas into intelligent solutions with AI & Web technologies.”</p>
