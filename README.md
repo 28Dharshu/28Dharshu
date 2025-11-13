@@ -95,9 +95,7 @@ I enjoy solving complex problems, designing user-focused digital experiences, an
 
 | Project | Description | Repo |
 |----------|--------------|------|
-| 🌿 *Plant Disease Detection* | CNN-based model for detecting leaf diseases | [View Repo](#) |
-| 🎓 *Student Grade Prediction* | Predicts academic performance using regression | [View Repo](#) |
-| ♻ *Smart Waste Sorting Bin* | IoT-powered system using ESP32-CAM & servo motors | [View Repo](#) |
+| ♻ *Smart Waste Sorting Bin(Iot based bin level monitoring system)* | IoT-powered system using ESP32-CAM & servo motors | [View Repo](#) |
 | ☁ *Weather Forecast App* | Real-time weather web app with city-based news | [View Repo](#) |
 
 ---
