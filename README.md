@@ -94,9 +94,12 @@ I enjoy solving complex problems, designing user-focused digital experiences, an
 ## 🧩 Featured Projects  
 
 | Project | Description | Repo |
-|----------|--------------|------|
-| ♻ *Smart Waste Sorting Bin(Iot based bin level monitoring system)* | IoT-powered system using ESP32-CAM & servo motors | [View Repo](#) |
-| ☁ *Weather Forecast App* | Real-time weather web app with city-based news | [View Repo](#) |
+|---------|-------------|------|
+| 🌤️ *Weather Prediction App* | A real-time weather web app built using PHP. | [View Repo](https://github.com/28Dharshu/weather_prediction) |
+| 📱 *IoT Based Bin Level Monitoring System* | IoT project to monitor waste bin levels using ESP32‑CAM sensors. | [View Repo](https://github.com/28Dharshu/Iot-based-bin-level-monitoring-system) |
+| 🤖 *DNN Automatic Waste Classification* | Deep neural network model to classify recyclable vs non‑recyclable waste. | [View Repo](https://github.com/28Dharshu/Deep_Neural_Network_Project) |
+| 🖥️ *Portfolio* | Personal portfolio website showcasing skills and projects. | [View Repo](https://github.com/28Dharshu/portfolio) |
+
 
 ---
 
