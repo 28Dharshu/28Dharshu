@@ -119,9 +119,12 @@ I enjoy solving complex problems, designing user-focused digital experiences, an
 ---
 
 ## 🏆 Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=28Dharshu&theme=onestar&margin-w=15&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=28Dharshu&theme=onestar&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Achievements" />
 </p>
+
+
 
 ---
 
